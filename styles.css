@@ -38,6 +38,7 @@
 }
 .discount p{
     color: #ff0000;
+    font-size: 1.2rem;
 }
 .discount img{
     height: 50%;
@@ -48,4 +49,38 @@
     font-size: 2.5rem;
     margin-top: 0;
     margin-bottom: 2%;
+}
+
+.party{
+    background-image: url('images/Vectorrr.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 2% 10%;
+    width: 80%;
+    height: 620px;
+    position: relative;
+    color: white;
+}
+.party-content{
+    width: 50%;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+
+.party-content h1{
+    font-size: 4rem;
+    margin: 0;
+}
+.party-btn{
+    background-color: transparent;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    margin-top: 2%;
+    font-weight: 600;
+}
+
+.party-btn:hover{
+    background-color: white;
+    color: black;
 }
