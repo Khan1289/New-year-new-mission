@@ -1,0 +1,51 @@
+
+.header{
+    background-image: url('images/Banner Image dark.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 2% 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 620px;
+    position: relative;
+    color: white;
+}
+.header h1{
+    text-align: center;
+    font-size: 4rem;
+    margin: 0;
+}
+.header h2{
+    font-size: 2rem;
+    font-weight: 400;
+    margin-top: -5%;
+    margin-bottom: 2%;
+}
+
+.discount{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.off{
+    font-size: 5rem;
+    color: #ff0000;
+    margin: 0;
+}
+.discount p{
+    color: #ff0000;
+}
+.discount img{
+    height: 50%;
+    width: 50%;
+}
+
+.CATEGORIES{
+    font-size: 2.5rem;
+    margin-top: 0;
+    margin-bottom: 2%;
+}
