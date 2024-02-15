@@ -117,3 +117,41 @@
     transform: translate(-10px,-10px);
     box-shadow: 10px 10px 5px black;
 }
+
+.offer-news{
+    display: flex;
+    margin: 5% 10%;
+}
+.news{
+    margin-top: 10%;
+}
+.news h3{
+    color: #ff0000;
+    font-weight: 550;
+    font-size: 1.2rem;
+    margin: 0;
+}
+.news h1{
+    font-size: 2.5rem;
+    margin: .8%;
+}
+.celebrate-img{
+    margin: 0 50px;
+    border: 10px solid red;
+    padding: 2%;
+    border-radius: 50%;
+    height: 50%;
+    width: 50%;
+}
+.wish{
+    margin-top: 10%;
+}
+.wish h1{
+    font-size: 2.5rem;
+    color: #ff0000;
+    margin: 0;
+}
+
+.wish img{
+    margin-top: 5%;
+}
