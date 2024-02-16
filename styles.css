@@ -255,3 +255,37 @@ hr{
     justify-content: space-between;
     margin-top: 5%;
 }
+.sale{
+    margin: 10% 10%;
+}
+
+.sale-content{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.sale-content h1{
+    font-size: 2.5rem;
+    margin: .8%;
+}
+
+.sale-red{
+    color: red;
+}
+.img1{
+   width: 50%;
+   position: absolute;
+   z-index: 1;
+}
+.img2{
+    width: 15%;
+    margin-left: 45%;
+    margin-top: 5%;
+    position: absolute;
+}
+.img3{
+    position: relative;
+}
+.img4{
+    width: 100%;
+    position: relative;
+}
